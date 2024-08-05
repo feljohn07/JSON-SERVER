@@ -3,17 +3,17 @@
     {
       'gateway': '8724',
       'free': 'true',
-      'description': 'Free send to all networks (exclusive for Smart, TNT, and Sun activated/encoded SIMs)',
+      'description': 'Free send to all networks (exclusive for Smart, TNT, and Sun activated/encoded SIMs)'
     },
     {
       'gateway': '2021 ',
       'free': 'true',
-      'description': 'Free send to Smart, TNT, and Sun only (exclusive for Smart, TNT, and Sun activated/encoded SIMs)',
+      'description': 'Free send to Smart, TNT, and Sun only (exclusive for Smart, TNT, and Sun activated/encoded SIMs)'
     },
     {
       'gateway': '21581829 ',
       'free': 'true',
-      'description': 'Free send to Globe and TM (exclusive for Globe and TM activated/encoded SIMs)',
-    },
+      'description': 'Free send to Globe and TM (exclusive for Globe and TM activated/encoded SIMs)'
+    }
   ]
 }
