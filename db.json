@@ -3138,57 +3138,494 @@
         {
             "imageUrl": "",
             "eLoad": "DOTA2",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "STEAM50",
+                    "description": "50 Steam Points (SRP: 58)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM100",
+                    "description": "100 Steam Points (SRP: 16)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM250",
+                    "description": "250 Steam Points (SRP: 290)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM500",
+                    "description": "500 Steam Points (SRP: 580)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM800",
+                    "description": "800 Steam Points (SRP: 928)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM1000",
+                    "description": "1000 Steam Points (SRP: 1160)",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "STEAM",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "STEAM50",
+                    "description": "50 Steam Points (SRP: 58)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM100",
+                    "description": "100 Steam Points (SRP: 16)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM250",
+                    "description": "250 Steam Points (SRP: 290)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM500",
+                    "description": "500 Steam Points (SRP: 580)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM800",
+                    "description": "800 Steam Points (SRP: 928)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM1000",
+                    "description": "1000 Steam Points (SRP: 1160)",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "MOBILELEGENDS",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "ML20",
+                    "description": "22 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "ML50",
+                    "description": "56 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "ML100",
+                    "description": "112 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "ML300",
+                    "description": "333 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "ML500",
+                    "description": "570 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "ML1000",
+                    "description": "1163 diamonds",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "CSGO",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "STEAM50",
+                    "description": "50 Steam Points (SRP: 58)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM100",
+                    "description": "100 Steam Points (SRP: 16)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM250",
+                    "description": "250 Steam Points (SRP: 290)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM500",
+                    "description": "500 Steam Points (SRP: 580)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM800",
+                    "description": "800 Steam Points (SRP: 928)",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "STEAM1000",
+                    "description": "1000 Steam Points (SRP: 1160)",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "PUBG",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "RAZER20",
+                    "description": "20 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER50",
+                    "description": "50 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER100",
+                    "description": "100 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER150",
+                    "description": "150 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER250",
+                    "description": "250 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER300",
+                    "description": "RAZER300",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER500",
+                    "description": "500 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER1000",
+                    "description": "1000 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "PLAYPARK",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "PLAY20",
+                    "description": "PlayPark Load 20",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "PLAY50",
+                    "description": "PlayPark Load 50",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "PLAY100",
+                    "description": "PlayPark Load 100",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "PLAY300",
+                    "description": "PlayPark Load 300",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "PLAY500",
+                    "description": "PlayPark Load 500",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "MUORIGIN",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "MU50",
+                    "description": "99 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "MU100",
+                    "description": "196 diamonds",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "MU300",
+                    "description": "585 diamonds",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "GARENA",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "GAR20",
+                    "description": "GARENA 20",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "GAR50",
+                    "description": "GARENA 50",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "GAR100",
+                    "description": "GARENA 100",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "GAR200",
+                    "description": "GARENA 200",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "GAR300",
+                    "description": "GARENA 300",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "GAR500",
+                    "description": "GARENA 500",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "GA1000",
+                    "description": "GARENA 1000",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "RAGNAROK",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "RAZER20",
+                    "description": "20 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER50",
+                    "description": "50 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER100",
+                    "description": "100 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER150",
+                    "description": "150 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER250",
+                    "description": "250 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER300",
+                    "description": "300 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER500",
+                    "description": "500 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER1000",
+                    "description": "1000 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "OVERWATCH",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "RAZER20",
+                    "description": "20 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER50",
+                    "description": "50 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER100",
+                    "description": "100 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER150",
+                    "description": "150 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER250",
+                    "description": "250 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER300",
+                    "description": "300 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER500",
+                    "description": "500 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER1000",
+                    "description": "1000 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         },
         {
             "imageUrl": "",
             "eLoad": "RAZERPIN",
-            "promos": []
+            "promos": [
+                {
+                    "promoCode": "RAZER20",
+                    "description": "20 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER50",
+                    "description": "50 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER100",
+                    "description": "100 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER150",
+                    "description": "150 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER250",
+                    "description": "250 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER300",
+                    "description": "300 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER500",
+                    "description": "500 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                },
+                {
+                    "promoCode": "RAZER1000",
+                    "description": "1000 Razer Gold",
+                    "duration": "",
+                    "price": ""
+                }
+            ]
         }
     ]
 }
