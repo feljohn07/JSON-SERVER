@@ -16,7 +16,7 @@
             "description": "Free send to Globe and TM (exclusive for Globe and TM activated/encoded SIMs)"
         }
     ],
-    "loader": [
+    "eLoads": [
         {
             "imageUrl": "",
             "eLoad": "SMART",
