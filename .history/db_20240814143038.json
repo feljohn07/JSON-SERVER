@@ -2940,7 +2940,7 @@
             ]
         },
         {
-            "imageUrl": "assets/logo/viva max.png",
+            "imageUrl": "assets/logo/vivamax.png",
             "eLoad": "VIVAMAX",
             "promos": [
                 {
@@ -2958,7 +2958,7 @@
             ]
         },
         {
-            "imageUrl": "assets/logo/viva one.png",
+            "imageUrl": "assets/logo/vivaone.png",
             "eLoad": "VIVAONE",
             "promos": [
                 {
@@ -2970,7 +2970,7 @@
             ]
         },
         {
-            "imageUrl": "assets/logo/gsat.png",
+            "imageUrl": "",
             "eLoad": "GSAT",
             "promos": [
                 {
@@ -3000,7 +3000,7 @@
             ]
         },
         {
-            "imageUrl": "assets/logo/satlite.png",
+            "imageUrl": "",
             "eLoad": "SATLITE",
             "promos": [
                 {
@@ -3030,17 +3030,17 @@
             ]
         },
         {
-            "imageUrl": "assets/logo/cignal play.png",
+            "imageUrl": "",
             "eLoad": "CIGNALPLAY",
             "promos": []
         },
         {
-            "imageUrl": "assets/logo/sulit tv.png",
+            "imageUrl": "",
             "eLoad": "SULITTV",
             "promos": []
         },
         {
-            "imageUrl": "assets/logo/meralco.png",
+            "imageUrl": "",
             "eLoad": "MERALCOKURYENTELOAD",
             "promos": [
                 {
@@ -3077,7 +3077,7 @@
         },
         {
             "imageUrl": "",
-            "eLoad": "SURF2SAWA",
+            "eLoad": "SERF2SAWA",
             "promos": [
                 {
                     "promoCode": "SF50",
