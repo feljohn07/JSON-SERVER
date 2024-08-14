@@ -2861,8 +2861,6 @@
                 }
             ]
         },
-    ],
-    "other": [
         {
             "imageUrl": "assets/logo/cignal.png",
             "eLoad": "CIGNAL",
@@ -3629,5 +3627,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "other": []
 }
